@@ -16,3 +16,13 @@ font: size 12px;
 margin: 0 46px;
 padding: 24px 0;
 }
+
+
+.sobre-imagem{
+    width: 24%;
+}
+.sobre{
+    background-image: linear-gradient(#4b4b4b,#8d8d8d);
+    color: #ffffff;
+    display: flex;
+}
