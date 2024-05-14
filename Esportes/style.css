@@ -26,3 +26,16 @@ padding: 24px 0;
     color: #ffffff;
     display: flex;
 }
+
+.membro-icone{
+ width:24px;
+}
+
+.membro-dive{
+text-align: center;
+}
+
+.membros-titulo{
+text-align:center;
+padding: 150px o;
+}
