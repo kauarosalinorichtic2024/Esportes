@@ -37,5 +37,9 @@ text-align: center;
 
 .membros-titulo{
 text-align:center;
-padding: 150px o;
+padding: 150px;
+}
+.membros-todos{
+    display:grid;
+    grid-template-columns: 10% 20% 20% 20% 20%;
 }
